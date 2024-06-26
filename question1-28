@@ -1,0 +1,41 @@
+1. hyper text marker language
+2. không, 1 số thẻ không cần thẻ đóng
+3. dùng để chạy chữ từ trái sang phải
+4. 
+5. bắt đầu của trang html
+6. đặt <script> trước chắc để chạy thông báo trước khi trang web đc load
+7. 
+8.
+9. dùng github để kết nối với các thành viên trong team, nên dùng pull rebase
+
+
+10. relative là element cố định, còn absolute có thể di chuyển theo ý mình và nằm trên relative's elemnt
+11. Cascading Style Sheets
+12. lợi: file sẽ rõ ràng hơn, rút ngắn lại file html
+hại: nặng máy, dễ bị lỗi link.
+13. 
+14.block: mỗi tag trong html sẽ thể hiện trên trang web bằng việc xuống hàng
+inline: các tag có thể lồng vào nhau và nằm trên cùng 1 hàng. 
+15. 
+16. trên 768px là pc-table còn dưới 768px là moble 
+
+moblie first
+@media only screen and (min-width: 768px) {}
+
+pc first
+@media only screen and (max-width: 768px) {}
+
+17. display block
+18.
+19. 
+
+
+20.c
+21. a
+22. a 
+23. a 
+24. b 
+25. 
+26. a 
+27. c 
+28. b 
